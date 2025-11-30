@@ -54,3 +54,6 @@ Cinsiyete göre renklendirme için TBLYOLCUBILGI tablosu ile JOIN yapılır.
 Veriler ADO.NET ile yönetilir (SqlConnection, SqlCommand, SqlDataReader, DataAdapter).
 
 UI tamamen WinForms üzerinde dinamik olarak oluşturulmuştur.
+![Seyahat](https://github.com/user-attachments/assets/6f30da60-9ee4-4471-a649-ebc933a4aed0)
+
+
